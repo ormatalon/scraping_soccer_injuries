@@ -1,0 +1,126 @@
+2021-04-05 10:39:33,941 - scrap - WARNING - Database soccer_injuries already exists.
+2021-04-05 10:39:33,942 - scrap - INFO - The database soccer_injuries exists.
+2021-04-05 10:39:34,084 - scrap - WARNING - leagues table already exists.
+2021-04-05 10:39:34,085 - scrap - INFO - leagues table exists.
+2021-04-05 10:39:34,205 - scrap - INFO - Starts updating teams table.
+2021-04-05 10:39:34,302 - scrap - WARNING - teams table already exists.
+2021-04-05 10:39:34,302 - scrap - INFO - teams table exists.
+2021-04-05 10:39:37,289 - scrap - INFO - Start updating players table.
+2021-04-05 10:39:37,315 - scrap - INFO - Updated 0 players in the table.
+2021-04-05 10:39:38,420 - scrap - INFO - Updated 1000 players in the table.
+2021-04-05 10:39:39,515 - scrap - INFO - Updated 2000 players in the table.
+2021-04-05 10:39:40,456 - scrap - WARNING - players table already exists.
+2021-04-05 10:39:40,469 - scrap - INFO - players table is up to date. 
+There are 2900 players in the table.
+2021-04-05 10:40:04,025 - scrap - INFO - Start updating injuries table.
+2021-04-05 10:40:04,035 - scrap - INFO - updated 0 injuries in the table.
+2021-04-05 10:40:05,454 - scrap - INFO - updated 1000 injuries in the table.
+2021-04-05 10:40:06,493 - scrap - INFO - updated 2000 injuries in the table.
+2021-04-05 10:40:07,750 - scrap - INFO - updated 3000 injuries in the table.
+2021-04-05 10:40:08,880 - scrap - INFO - updated 4000 injuries in the table.
+2021-04-05 10:40:10,267 - scrap - INFO - updated 5000 injuries in the table.
+2021-04-05 10:40:11,556 - scrap - INFO - updated 6000 injuries in the table.
+2021-04-05 10:40:12,884 - scrap - INFO - updated 7000 injuries in the table.
+2021-04-05 10:40:14,224 - scrap - INFO - updated 8000 injuries in the table.
+2021-04-05 10:40:15,407 - scrap - INFO - updated 9000 injuries in the table.
+2021-04-05 10:40:16,830 - scrap - INFO - updated 10000 injuries in the table.
+2021-04-05 10:40:17,959 - scrap - INFO - updated 11000 injuries in the table.
+2021-04-05 10:40:18,932 - scrap - INFO - updated 12000 injuries in the table.
+2021-04-05 10:40:20,049 - scrap - INFO - updated 13000 injuries in the table.
+2021-04-05 10:40:20,587 - scrap - WARNING - injuries table already exists.
+2021-04-05 10:40:20,593 - scrap - INFO - injuries table is up to date. 
+There are 13529 injuries in the table
+2021-04-05 10:40:36,555 - scrap - INFO - start updating player_team table.
+2021-04-05 10:40:36,565 - scrap - INFO - updated 0 fields in the player_team table.
+2021-04-05 10:40:37,542 - scrap - INFO - updated 1000 fields in the player_team table.
+2021-04-05 10:40:38,767 - scrap - INFO - updated 2000 fields in the player_team table.
+2021-04-05 10:40:40,042 - scrap - INFO - updated 3000 fields in the player_team table.
+2021-04-05 10:40:40,968 - scrap - INFO - updated 4000 fields in the player_team table.
+2021-04-05 10:40:41,872 - scrap - INFO - updated 5000 fields in the player_team table.
+2021-04-05 10:40:42,818 - scrap - INFO - updated 6000 fields in the player_team table.
+2021-04-05 10:40:43,661 - scrap - WARNING - player_team table already exists.
+2021-04-05 10:40:43,978 - scrap - INFO - player_team table is up to date. 
+There are 6949 rows in the players_team table.
+2021-04-05 10:41:04,572 - scrap - INFO - start updating player_season table.
+2021-04-05 10:41:04,582 - scrap - INFO - updated 0 fields in the player_season table.
+2021-04-05 10:41:05,498 - scrap - INFO - updated 1000 fields in the player_season table.
+2021-04-05 10:41:06,232 - scrap - INFO - updated 2000 fields in the player_season table.
+2021-04-05 10:41:08,305 - scrap - INFO - updated 5000 fields in the player_season table.
+2021-04-05 10:41:08,883 - scrap - INFO - updated 6000 fields in the player_season table.
+2021-04-05 10:41:10,492 - scrap - INFO - updated 8000 fields in the player_season table.
+2021-04-05 10:41:14,308 - scrap - INFO - updated 13000 fields in the player_season table.
+2021-04-05 10:41:15,018 - scrap - INFO - updated 14000 fields in the player_season table.
+2021-04-05 10:41:15,697 - scrap - INFO - updated 15000 fields in the player_season table.
+2021-04-05 10:41:16,387 - scrap - INFO - updated 16000 fields in the player_season table.
+2021-04-05 10:41:17,619 - scrap - INFO - updated 18000 fields in the player_season table.
+2021-04-05 10:41:19,004 - scrap - INFO - updated 20000 fields in the player_season table.
+2021-04-05 10:41:21,540 - scrap - INFO - updated 24000 fields in the player_season table.
+2021-04-05 10:41:22,093 - scrap - INFO - updated 25000 fields in the player_season table.
+2021-04-05 10:41:22,550 - scrap - INFO - updated 26000 fields in the player_season table.
+2021-04-05 10:41:23,409 - scrap - INFO - updated 28000 fields in the player_season table.
+2021-04-05 10:41:24,286 - scrap - WARNING - player_season table already exists.
+2021-04-05 10:41:24,294 - scrap - INFO - player_season table is up to date. 
+There are 14958 rows in the players_season table.
+2021-04-05 10:45:38,533 - scrap - WARNING - Database soccer_injuries already exists.
+2021-04-05 10:45:38,533 - scrap - INFO - The database soccer_injuries exists.
+2021-04-05 10:45:38,576 - scrap - WARNING - leagues table already exists.
+2021-04-05 10:45:38,576 - scrap - INFO - leagues table exists.
+2021-04-05 10:45:38,662 - scrap - INFO - Starts updating teams table.
+2021-04-05 10:45:38,771 - scrap - WARNING - teams table already exists.
+2021-04-05 10:45:38,771 - scrap - INFO - teams table exists.
+2021-04-05 10:45:42,228 - scrap - INFO - Start updating players table.
+2021-04-05 10:45:42,816 - scrap - INFO - Updated 0 players in the table.
+2021-04-05 10:45:44,172 - scrap - INFO - Updated 1000 players in the table.
+2021-04-05 10:45:45,429 - scrap - INFO - Updated 2000 players in the table.
+2021-04-05 10:45:46,842 - scrap - WARNING - players table already exists.
+2021-04-05 10:45:46,936 - scrap - INFO - players table is up to date. 
+There are 5800 players in the table.
+2021-04-05 10:46:06,775 - scrap - INFO - Start updating injuries table.
+2021-04-05 10:46:06,783 - scrap - INFO - updated 0 injuries in the table.
+2021-04-05 10:46:07,923 - scrap - INFO - updated 1000 injuries in the table.
+2021-04-05 10:46:08,962 - scrap - INFO - updated 2000 injuries in the table.
+2021-04-05 10:46:10,085 - scrap - INFO - updated 3000 injuries in the table.
+2021-04-05 10:46:11,026 - scrap - INFO - updated 4000 injuries in the table.
+2021-04-05 10:46:12,028 - scrap - INFO - updated 5000 injuries in the table.
+2021-04-05 10:46:12,950 - scrap - INFO - updated 6000 injuries in the table.
+2021-04-05 10:46:14,060 - scrap - INFO - updated 7000 injuries in the table.
+2021-04-05 10:46:15,177 - scrap - INFO - updated 8000 injuries in the table.
+2021-04-05 10:46:16,202 - scrap - INFO - updated 9000 injuries in the table.
+2021-04-05 10:46:17,211 - scrap - INFO - updated 10000 injuries in the table.
+2021-04-05 10:46:18,321 - scrap - INFO - updated 11000 injuries in the table.
+2021-04-05 10:46:19,593 - scrap - INFO - updated 12000 injuries in the table.
+2021-04-05 10:46:21,499 - scrap - INFO - updated 13000 injuries in the table.
+2021-04-05 10:46:22,197 - scrap - WARNING - injuries table already exists.
+2021-04-05 10:46:22,208 - scrap - INFO - injuries table is up to date. 
+There are 27058 injuries in the table
+2021-04-05 10:46:36,960 - scrap - INFO - start updating player_team table.
+2021-04-05 10:46:36,968 - scrap - INFO - updated 0 fields in the player_team table.
+2021-04-05 10:46:38,208 - scrap - INFO - updated 1000 fields in the player_team table.
+2021-04-05 10:46:39,274 - scrap - INFO - updated 2000 fields in the player_team table.
+2021-04-05 10:46:40,465 - scrap - INFO - updated 3000 fields in the player_team table.
+2021-04-05 10:46:41,563 - scrap - INFO - updated 4000 fields in the player_team table.
+2021-04-05 10:46:42,679 - scrap - INFO - updated 5000 fields in the player_team table.
+2021-04-05 10:46:43,725 - scrap - INFO - updated 6000 fields in the player_team table.
+2021-04-05 10:46:44,585 - scrap - WARNING - player_team table already exists.
+2021-04-05 10:46:44,589 - scrap - INFO - player_team table is up to date. 
+There are 13898 rows in the players_team table.
+2021-04-05 10:47:02,092 - scrap - INFO - start updating player_season table.
+2021-04-05 10:47:02,104 - scrap - INFO - updated 0 fields in the player_season table.
+2021-04-05 10:47:02,784 - scrap - INFO - updated 1000 fields in the player_season table.
+2021-04-05 10:47:03,466 - scrap - INFO - updated 2000 fields in the player_season table.
+2021-04-05 10:47:05,459 - scrap - INFO - updated 5000 fields in the player_season table.
+2021-04-05 10:47:06,096 - scrap - INFO - updated 6000 fields in the player_season table.
+2021-04-05 10:47:07,089 - scrap - INFO - updated 8000 fields in the player_season table.
+2021-04-05 10:47:09,880 - scrap - INFO - updated 13000 fields in the player_season table.
+2021-04-05 10:47:10,533 - scrap - INFO - updated 14000 fields in the player_season table.
+2021-04-05 10:47:11,329 - scrap - INFO - updated 15000 fields in the player_season table.
+2021-04-05 10:47:12,154 - scrap - INFO - updated 16000 fields in the player_season table.
+2021-04-05 10:47:13,536 - scrap - INFO - updated 18000 fields in the player_season table.
+2021-04-05 10:47:14,906 - scrap - INFO - updated 20000 fields in the player_season table.
+2021-04-05 10:47:17,871 - scrap - INFO - updated 24000 fields in the player_season table.
+2021-04-05 10:47:18,324 - scrap - INFO - updated 25000 fields in the player_season table.
+2021-04-05 10:47:18,818 - scrap - INFO - updated 26000 fields in the player_season table.
+2021-04-05 10:47:19,727 - scrap - INFO - updated 28000 fields in the player_season table.
+2021-04-05 10:47:20,382 - scrap - WARNING - player_season table already exists.
+2021-04-05 10:47:22,172 - scrap - INFO - player_season table is up to date. 
+There are 29916 rows in the players_season table.
